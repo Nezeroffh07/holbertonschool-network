@@ -1,1 +1,2 @@
 # holbertonschool-network
+Nurlan Nəzərov
